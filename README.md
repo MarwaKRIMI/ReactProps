@@ -1,2 +1,0 @@
-# ReactProps
-Created with CodeSandbox
